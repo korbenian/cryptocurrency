@@ -70,7 +70,7 @@
 .button {
   display: flex;
   align-items: center;
-  border-radius: 17px;
+  border-radius: 16px;
   background-color: #1abc9c;
   justify-content: center;
   width: 39%;
